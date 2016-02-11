@@ -46,6 +46,9 @@
     <Compile Include="Check.cs" />
     <Compile Include="CheckItem.cs" />
     <Compile Include="Diner.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Party.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -54,6 +57,23 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="bin\Debug\GregsConsoleSplitCheck.exe.config" />
+    <None Include="bin\Debug\GregsConsoleSplitCheck.vshost.exe.config" />
+    <None Include="bin\Debug\GregsConsoleSplitCheck.vshost.exe.manifest" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\GregsConsoleSplitCheck.csprojResolveAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\GregsConsoleSplitCheck.exe" />
+    <Content Include="bin\Debug\GregsConsoleSplitCheck.pdb" />
+    <Content Include="bin\Debug\GregsConsoleSplitCheck.vshost.exe" />
+    <Content Include="obj\Debug\GregsConsoleSplitCheck.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\GregsConsoleSplitCheck.exe" />
+    <Content Include="obj\Debug\GregsConsoleSplitCheck.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
